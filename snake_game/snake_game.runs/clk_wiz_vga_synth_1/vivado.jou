@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Dec  9 17:42:08 2025
+# Process ID: 31052
+# Current directory: D:/University/Junior/FPGA/Snake_Game_V3/snake_game/snake_game.runs/clk_wiz_vga_synth_1
+# Command line: vivado.exe -log clk_wiz_vga.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_wiz_vga.tcl
+# Log file: D:/University/Junior/FPGA/Snake_Game_V3/snake_game/snake_game.runs/clk_wiz_vga_synth_1/clk_wiz_vga.vds
+# Journal file: D:/University/Junior/FPGA/Snake_Game_V3/snake_game/snake_game.runs/clk_wiz_vga_synth_1\vivado.jou
+# Running On: Acer-Predator, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 34065 MB
+#-----------------------------------------------------------
+source clk_wiz_vga.tcl -notrace

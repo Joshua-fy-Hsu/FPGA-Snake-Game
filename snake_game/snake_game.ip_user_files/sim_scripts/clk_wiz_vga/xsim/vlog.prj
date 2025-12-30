@@ -1,0 +1,7 @@
+verilog xil_defaultlib --include "../../../ipstatic" \
+"../../../../snake_game.gen/sources_1/ip/clk_wiz_vga/clk_wiz_vga_clk_wiz.v" \
+"../../../../snake_game.gen/sources_1/ip/clk_wiz_vga/clk_wiz_vga.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
