@@ -84,7 +84,7 @@ The system is designed with a modular hierarchy, separating the Input, Logic, an
 4. **Program:** Connect the EGo1 board via USB and program the device.
 5. **Peripherals:**
    * Connect a VGA monitor.
-   * Connect the 4x4 Keypad to the GPIO headers (Rows: B16, A15, A13, B18 / Cols: B17, A16, A14, A18).
+   * Connect the 4x4 Keypad to the GPIO headers.
    * Ensure the potentiometer is ready for speed adjustment.
 
 ## File Structure
@@ -108,4 +108,4 @@ The system is designed with a modular hierarchy, separating the Input, Logic, an
 │   ├── Font_ROM.v            # Text Bitmaps
 │   └── EGo1.xdc              # Constraints / Pinout
 └── README.md
-"# FPGA-Snake-Game" 
+
